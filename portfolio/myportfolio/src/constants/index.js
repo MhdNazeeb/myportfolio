@@ -147,7 +147,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but nazeeb proved me wrong.",
     name: "Kiran",
     designation: "Developer",
     // company: "Acme Co",
@@ -155,7 +155,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like nazeeb does.",
     name: "Riyaz",
     designation: "Developer",
     // company: "DEF Corp",
@@ -163,7 +163,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After nazeeb optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Gokul",
     designation: "Data Scientis",
     // company: "456 Enterprises",
